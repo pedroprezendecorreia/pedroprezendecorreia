@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">*</p>
+<p align="left">
+  <a href="https://github.com/pedroprezendecorreia/AI-Powered-Audio-Visual-Transcription">AI-Powered-Audio-Visual-Transcription</a><br>
+  <a href="https://github.com/pedroprezendecorreia/project_audio_transcription">project_audio_transcription</a>
+</p>
 
 ###
 
@@ -41,5 +44,3 @@
 ###
 
 <br clear="both">
-
-###
